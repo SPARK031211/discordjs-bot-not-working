@@ -1,4 +1,4 @@
-# discord-profile
+# discordjs-bot-not-working
 - 최초 백업일: Oct 23, 2020
 - 최종 수정일: Apr 16, 2025
 
